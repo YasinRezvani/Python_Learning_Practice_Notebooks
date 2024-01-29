@@ -1,5 +1,4 @@
-![Video_240129032335](https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/5203f968-8a9d-4007-a761-1f4cee34a5d7)# Python_Learning_Practice_Notebook
-
+# Python_Learning_Practice_Notebook
 # Demo :tada:
 ## :fireworks: Loading_The_MNIST_Dataset :fireworks:
 ![Video_240126160825 (online-video-cutter com)](https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/6c1cdd1b-3919-4611-8660-60d66bda748c)
