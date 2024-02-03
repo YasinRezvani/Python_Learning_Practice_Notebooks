@@ -1,7 +1,7 @@
 # Python_Learning_Practice_Notebook
 # Demo :tada:
 ## :fireworks: Loading_The_MNIST_Dataset :fireworks:
-![mnis1-ezgif com-video-to-gif-converter](https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/426b3db1-3444-4240-8741-df4729fc4d2a)
+https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/416b0619-daa0-41d1-9a76-a0e3fa4b4e56
 
 ## :maple_leaf: Playing_With_Numpy_Library :maple_leaf:
 ![numpy-ezgif com-video-to-gif-converter](https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/6068f133-60a5-493d-8187-44553404c7ca)
