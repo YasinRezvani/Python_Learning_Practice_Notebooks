@@ -18,3 +18,9 @@ https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/771246
 ## :sparkling_heart: Playing_With_Scipy_Library :sparkling_heart:
 https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/454d1b23-94c4-4412-9c08-367e8a2b37de
 
+## :airplane: Playing_With_Matplotlib_Library :airplane:
+https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/095c7f36-3ad1-4bce-9114-b1a5ff51ebc6
+
+## :rocket: Playing_With_Seaborn_Library :rocket:
+https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/0c66a19f-b0ee-40f5-affe-cc24fcd9d3d6
+
