@@ -1,4 +1,5 @@
 # Python_Learning_Practice_Notebook
+Jupyter notebooks for practicing Python data analysis and visualization with Matplotlib, NumPy, Pandas, SciPy, and Seaborn.
 # Demo :tada:
 ## :fireworks: Loading_The_MNIST_Dataset :fireworks:
 https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/416b0619-daa0-41d1-9a76-a0e3fa4b4e56
