@@ -25,3 +25,16 @@ https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/771246
 ## :rocket: Playing_With_Seaborn_Library :rocket:
 https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/0c66a19f-b0ee-40f5-affe-cc24fcd9d3d6
 
+## :christmas_tree: Training_a_Digit_Recognition_Model_Using_Keras_on_the_MNIST_Dataset :christmas_tree:
+https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/cb97439a-66ff-44d0-92a4-f39808b4f353
+
+## :chart_with_upwards_trend: Training_a_Recognition_Model_Using_Keras_on_the_CIFAR_10_Dataset :chart_with_upwards_trend:
+https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/a53bce7d-0439-43a4-b378-20d0c399b17c
+
+## :spades: Training_a_Convolution_Dense_Layer_With_Recognition_Model_Using_Keras_on_the_CIFAR_10_Dataset :spades:
+https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/8afe3d84-148c-4f04-a8e0-09e67bc4703f
+
+## :statue_of_liberty: How_to_Define_Functional_And_Sequential_Keras_Models :statue_of_liberty:
+https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/a5dff226-5877-4e00-8a64-e12aeb9e4b60
+
+
