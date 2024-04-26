@@ -37,4 +37,7 @@ https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/771246
 ## :statue_of_liberty: How_to_Define_Functional_And_Sequential_Keras_Models :statue_of_liberty:
 https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/a5dff226-5877-4e00-8a64-e12aeb9e4b60
 
+## :bomb: Training_a_Digit_Recognition_Model_Using_Pytorch_Library_on_the_MNIST_Dataset :bomb:
+
+
 
