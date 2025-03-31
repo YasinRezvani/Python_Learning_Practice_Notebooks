@@ -1,4 +1,7 @@
 # Hands_On_Machine_Learning_and_Deep_Learning_with_Python
+- **Supervisor:** [Dr. Mansoor Fateh](https://scholar.google.com/citations?user=ZHezeMIAAAAJ&hl=en) <br>
+- **Organization:** [Computer Vision Lab at Shahrood University of Technology (CVLab SHUT)](https://github.com/CVLab-SHUT) <br>
+
 This project was conducted under the supervision of Dr. Mansoor Fateh at CVLab SHUT, focusing on deep learning and computer vision research. The work utilized Python along with key libraries including NumPy, Pandas, Matplotlib, and Seaborn for data analysis and visualization, as well as Keras, TensorFlow, and PyTorch for implementing and training deep learning models on standard datasets (MNIST and CIFAR-10). The research aimed to develop practical skills in building and optimizing neural networks while adhering to academic methodologies.
 # Demo :tada:
 ## :fireworks: Loading_The_MNIST_Dataset :fireworks:
